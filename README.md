@@ -9,4 +9,4 @@
 
 A [Sourcegraph](https://sourcegraph.com) extension allowing to find references to a string literal using the Sourcegraph code search.
 
-![example](demo.gif)
+![example](https://github.com/lguychard/sourcegraph-string-references/raw/master/demo.gif
